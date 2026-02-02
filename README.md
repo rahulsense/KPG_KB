@@ -432,8 +432,6 @@
 - Budget Analyst → 2002084
 - Business Analyst → 2001689
 - Buyer → 2002258
-
-## Other Specializations 
 - C- Level → 2001287
 - COTA → 2000488
 - COTA HH → 2001200
@@ -636,8 +634,6 @@
 - Dosimetrist → 2000334
 - Dosimetrist Outpatient → 2000526
 - Drafting and Design Engineer → 2001392
-
-## Other Specializations
 - E-Commerce Marketing Manager → 2002047
 - EEG → 2000336
 - EEG Outpatient → 2000528
@@ -707,8 +703,6 @@
 - Grief Counselor → 2001444
 - Guidance Counselor → 2001445
 - Gynecology → 2002590
-
-## Other Specializations
 - Hand Physical Therapist → 2001795
 - Handwriting Analyst → 2001691
 - Health Coach → 2001508
@@ -787,8 +781,6 @@
 - Logistics Team Leader → 2002020
 - Long Term Acute Care → 2001265
 - Long Term Care → 2001240
-
-## Other Specializations
 - MHT → 2001239
 - MQSA → 2001282
 - MRI → 2000339
@@ -847,9 +839,6 @@
 - Movement Disorders → 2002628
 - Multi-Modality Technologist → 2003417
 - Musculoskeletal sonographer → 2001542
-
-
-## Other Specializations
 - NONE → 2002652
 - NP → 2000228
 - Naturopathic → 2001258
