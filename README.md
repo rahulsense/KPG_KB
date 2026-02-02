@@ -1,1 +1,1195 @@
-# KPG_KB
+# Medical Specializations and Codes
+
+## Anesthesiology
+- Adult Cardiothoracic Anesthesiology → 2003409
+- Anesthesiology → 2002300
+- Anesthesiology Critical Care Medicine → 2000873
+- Cardiac Anesthesiology → 2002510
+- Dental Anesthesiology → 2002544
+- Pediatric Anesthesiology → 2002686
+- Regional Anesthesiology → 2000711
+
+## Cardiology
+- Advanced Heart Failure and Transplant Cardiology → 2000740
+- Cardiology → 2002512
+- Interventional Cardiology → 2000608
+- Invasive Cardiology → 2002613
+- Non-Invasive Cardiology → 2002279
+- Pediatric Cardiology → 2001083
+
+## Critical Care
+- Critical Care → 2002541
+- Neuro Critical Care → 2001249
+- Surgical Critical Care → 2000816
+
+## Dentistry
+- Advanced General Dentistry → 2002488
+- Cosmetic Dentistry → 2002537
+- Dentistry → 2003421
+- General Dentistry → 2002576
+- Geriatric Dentistry → 2002581
+- Hospital Dentistry → 2002600
+- Implant Dentistry → 2002604
+- Pediatric Dentistry → 2002690
+- Public Health Dentistry → 2002732
+- Restorative Dentistry → 2002743
+- Sleep Dentistry → 2002747
+- Sleep Medicine Dentistry → 2002749
+- Special Care Dentistry → 2002751
+- Sports Dentistry → 2002753
+
+## Emergency
+- Advanced Emergency Medical Technicians (AEMT) → 2001512
+- Emergency Medical Responder (EMR) → 2001510
+- Emergency Medical Services → 2002557
+- Emergency Medical Technician → 2001738
+- Emergency Medical Technician (EMT) → 2001511
+- Emergency Nurse Practitioner (ENP) → 2001404
+- Emergency Room → 2000425
+- Emergency Room Technician → 2001739
+
+## Endocrinology
+- Endocrinology → 2002562
+- Endocrinology - Diabetes and Metabolism → 2002275
+- Endocrinology - Reproductive and Infertility → 2002171
+- Pediatric Endocrinology → 2000652
+
+## Geriatric
+- Adult Geriatric Acute Care → 2001210
+- Geriatric Nurse Practitioner (GNP) → 2002583
+- Geriatric Physical Therapist → 2001794
+- Geriatric RN → 2001932
+- Geriatrics → 2002586
+
+## Medicine
+- Addiction Medicine → 2000565
+- Adolescent Medicine → 2001029
+- Aerospace Medicine → 2000948
+- Alternative Medicine → 2002495
+- Blood Banking/Transfusion Medicine → 2002505
+- Blood Banking and Transfusion Medicine → 2001069
+- Brain Injury Medicine → 2000902
+- Critical Care Medicine → 2000572
+- Dental Sleep Medicine → 2002547
+- Emergency Medicine → 2002558
+- Family Medicine → 2000233
+- Family Medicine RN → 2002319
+- Functional Medicine → 2002573
+- Geriatric Medicine → 2000150
+- Hospice and Palliative Medicine → 2002598
+- Hospital Medicine → 2002601
+- Integrative Medicine → 2001275
+- Internal Medicine → 2000266
+- Internal Medicine / Critical Care Medicine → 2002608
+- International Medicine RN → 2001944
+- Lifestyle Medicine → 2001256
+- Maternal Fetal Medicine Sonographer → 2002129
+- Maternal-Fetal Medicine → 2000910
+- Maternal-Fetal Medicine → 2002332
+- Neonatal-perinatal Medicine → 2000934
+- Neuromuscular Medicine → 2002646
+- Nuclear Medicine → 2002653
+- Nuclear Medicine Outpatient → 2000533
+- Nuclear Medicine Technologist → 2002787
+- Occupational Medicine → 2002656
+- Oral Medicine → 2002668
+- Orthopaedic Sports Medicine → 2000827
+- Pain Medicine → 2002683
+- Pediatric Critical Care Medicine → 2000936
+- Pediatric Emergency Medicine → 2002692
+- Pediatric Internal Medicine → 2002699
+- Pediatric Rehabilitation Medicine → 2000661
+- Pediatric Sports Medicine → 2000659
+- Physical Medicine and Rehab → 2000216
+- Preventive Medicine → 2000569
+- Psychosomatic Medicine → 2000676
+- Public Health Medicine → 2000802
+- Pulmonary Disease and Critical Care Medicine → 2002735
+- Sleep Medicine → 2001001
+- Spinal Cord Injury Medicine → 2000662
+- Sports Medicine → 2000174
+- Tele Medicine → 2000223
+- Undersea and Hyperbaric Medicine → 2002768
+
+## Neurology
+- Child Neurology → 2000903
+- Interventional Neurology → 2002610
+- Neurology → 2001520
+- Neurology RN → 2001952
+- Vascular Neurology → 2000622
+
+## Oncology
+- Dental Oncology → 2002546
+- Gynecologic Oncology → 2000762
+- Hematology Oncology RN → 2002323
+- Hematology and Oncology → 2002594
+- Hematology and Oncology PA → 2002595
+- Musculoskeletal Oncology → 2002630
+- Ocular oncology → 2000630
+- Oncology → 2000294
+- Oncology Nurse Practitioner (ONP) → 2001409
+- Pediatric Hematology-Oncology → 2000939
+- Pediatric Oncology → 2000495
+- Radiation Oncology → 2001020
+- Urologic Oncology → 2002770
+
+## Ophthalmology
+- Anterior segment/cornea ophthalmology → 2002500
+- Glaucoma ophthalmology → 2001061
+- Neuro-ophthalmology → 2000767
+- Ophthalmology → 2002167
+- Strabismus/Pediatric Ophthalmology → 2002757
+
+## Optometry
+- Community Health Optometry → 2002532
+- Community Health Optometry - OD → 2002339
+- Geriatric Optometry → 2002584
+- Geriatric Optometry - OD → 2002342
+- Hospital Based Optometry → 2002599
+- Hospital-Based Optometry - OD → 2002343
+- Neuro Optometry → 2002639
+- Neuro-Optometry - OD → 2002345
+- Optometry → 2001151
+- Pediatric Optometry → 2002703
+- Pediatric Optometry - OD → 2002348
+
+## Orthopedic
+- Orthodontics and Dentofacial Orthopedics → 2002673
+- Orthopedic Physical Therapist → 2001800
+- Orthopedic RN → 2001960
+- Orthopedics → 2000162
+
+## Pathology
+- Anatomical Pathology → 2000920
+- Chemical Pathology → 2001070
+- Clinical Pathology → 2000923
+- Cytopathology → 2002543
+- Dermatopathology → 2002550
+- Forensic Pathology → 2000778
+- Genetic Pathology → 2000641
+- Immunopathology → 2001075
+- Molecular Genetic Pathology → 2000754
+- Molecular Pathology → 2002627
+- Neuropathology → 2000930
+- Oral and Maxillofacial Pathology → 2002666
+- Pathology → 2002685
+- Pathology Assistant → 2000352
+- Pediatric Pathology → 2002706
+
+## Pediatrics
+- Child Abuse Pediatrics → 2000932
+- Developmental-Behavioral Pediatrics → 2000648
+- Endocrinology - Pediatrics → 2002169
+- Pediatrics → 2000297
+
+## Pharmacy
+- Ambulatory care pharmacy → 2001531
+- Clinical pharmacy → 2001530
+- Community pharmacy → 2001528
+- Compounding pharmacy → 2001532
+- Consultant pharmacy → 2001534
+- Hospital pharmacy → 2001529
+- Industrial pharmacy → 2001533
+- Internet pharmacy → 2001535
+- Pharmacist-To-Pharmacy Technician → 2001750
+- Pharmacy Clerk → 2002235
+- Pharmacy Tech → 2000376
+- Pharmacy Technician → 2001751
+- Veterinary pharmacy → 2001536
+
+## Plastic
+- Oculoplastic → 2001518
+- Oculoplastics → 2001517
+- Oculoplastics/Orbit → 2000916
+
+## Psychiatry
+- Addiction Psychiatry → 2002480
+- Administrative Psychiatry → 2000666
+- Animal Psychiatry → 2001483
+- Child and Adolescent Psychiatry → 2002523
+- Clinical Psychiatry → 2001484
+- Community Psychiatry → 2000668
+- Consultation/Liaison Psychiatry → 2000954
+- Criminal Psychiatry → 2002540
+- Eating Disorder Psychiatry → 2001486
+- Educational Psychiatry → 2001487
+- Emergency Psychiatry → 2002560
+- Forensic Psychiatry → 2002572
+- Geriatric Psychiatry → 2001105
+- Holistic Psychiatry → 2001488
+- Juvenile Psychiatry → 2001489
+- Mental Retardation Psychiatry → 2002624
+- Military Psychiatry → 2000959
+- Psychiatry → 2000121
+- Psychiatry Child & Adolescent → 2000281
+- School Psychiatry → 2001490
+- Social Psychiatry → 2001491
+- Sports Psychiatry → 2002755
+- Youth Psychiatry → 2001493
+
+## Public Health
+- Public Health RN → 2001973
+
+## Pulmonary
+- Pulmonary Disease → 2000894
+- Pulmonary RN → 2001974
+
+## Radiology
+- Abdominal Radiology → 2002474
+- Abdominal Radiology DO → 2002295
+- Abdominal Radiology MD → 2002294
+- Abdominal Radiology NP → 2002296
+- Abdominal Radiology PA → 2002293
+- Cardiothoracic Radiology → 2000581
+- Cardiovascular Radiology → 2002516
+- Chest Radiology → 2002520
+- Emergency Radiology → 2001010
+- Endovascular Surgical Neuroradiology → 2002564
+- Gastrointestinal Radiology → 2002575
+- General Radiology → 2000337
+- General Radiology Outpatient → 2000529
+- Genitourinary Radiology → 2002580
+- Head and Neck Radiology → 2000588
+- Interventional Radiology → 2002612
+- Interventional Radiology Outpatient → 2000530
+- Limited Radiology Technician → 2001744
+- Musculoskeletal Radiology → 2000590
+- Neurointerventional Radiology → 2002284
+- Neuroradiology → 2000868
+- Nuclear Radiology → 2002654
+- Pediatric Radiology → 2002708
+- Radiology → 2000122
+- Radiology - Diagnostic → 2002273
+- Radiology - Interventional → 2000476
+- Radiology RN → 2001976
+- Vascular and Interventional Radiology → 2002772
+
+## Rehabilitation
+- Low Vision Rehabilitation → 2002616
+- Low Vision Rehabilitation - OD → 2002344
+- Physical Rehabilitation → 2002278
+- Rehabilitation → 2001241
+- Rehabilitation Counselor → 2001458
+- Rehabilitation Psychologist → 2001720
+- Vestibular Rehabilitation Therapist → 2001810
+- Vision Therapy and Rehabilitation → 2002775
+- Vision Therapy and Rehabilitation - OD → 2002352
+
+## Social Work
+- Child Social Worker → 2002107
+- Community Social Worker → 2002110
+- Criminal justice Social Worker → 2002114
+- Family Social Worker → 2002108
+- Gerontological Social Worker → 2002111
+- Healthcare Social Worker → 2002113
+- International Social Worker → 2002112
+- Mental Health and Substance Abuse Social Worker → 2002115
+- Military Social Worker → 2002116
+- Psychiatric Social Worker → 2000503
+- School Social Worker → 2002109
+- Social Work Therapist → 2001808
+
+## Sports
+- Sports Counselor → 2001459
+- Sports Nutritionist → 2001507
+- Sports Vision → 2002756
+- Sports Vision - OD → 2002351
+
+## Surgery
+- Acute Care Surgery → 2002478
+- Ambulatory Surgery Post-op → 2000413
+- Ambulatory Surgery Pre-op → 2000414
+- Bariatric Surgery → 2002501
+- Breast Surgery → 2002282
+- Cardiac Surgery → 2002511
+- Cardiothoracic Surgery → 2002514
+- Cardiovascular Surgery → 2002280
+- Colon and Fectal Surgery → 2000677
+- Congenital Cardiac Surgery → 2000699
+- Craniofacial Surgery → 2001113
+- Craniofacial and Cleft Surgery → 2002538
+- Female Pelvic Medicine and Reconstructive Surgery → 2002567
+- General Surgery → 2002578
+- Hand Surgery → 2000967
+- Neuro Surgery → 2002640
+- Neurological Surgery → 2000682
+- Ophthalmic Plastic & Reconstructive Surgery → 2000917
+- Ophthalmic Surgery → 2002662
+- Oral Surgery and Anesthesia → 2002669
+- Oral and Maxillofacial Surgery → 2000970
+- Orthopaedic Surgery → 2002675
+- Orthopaedic Surgery of the Spine → 2000828
+- Orthopedic Surgery → 2002678
+- Out Patient Surgery → 2000443
+- Pediatric Craniofacial Surgery → 2002688
+- Pediatric Surgery → 2002712
+- Plastic Surgery → 2002719
+- Plastic Surgery RN → 2001968
+- Refractive and Ocular Surgery Co-Management → 2002739
+- Refractive and Ocular Surgery Co-Management - OD → 2002350
+- Same Day Surgery → 2000452
+- Surgery → 2002758
+- Thoracic Surgery → 2000698
+- Thoracic Surgery-Integrated → 2000987
+- Trauma Surgery → 2002767
+- Vascular Surgery → 2002774
+
+## Therapy
+- Infusion Therapy RN → 2001942
+- Intravenous Therapy → 2001173
+- Occupational Therapy Assistant → 2000403
+- Physical Therapy Assistant → 2000490
+- Physical Therapy Assistant Outpatient → 2000543
+- Radiation Therapy → 2000342
+
+## Urology
+- Female Urology → 2000994
+- Neurourology → 2000707
+- Pediatric Urology → 2002714
+- Urology → 2000178
+- Urology RN → 2002317
+
+## Other Specializations
+- ASW → 2000499
+- ASW Outpatient → 2001204
+- ASW* → 2001234
+- Abdominal sonographer → 2001540
+- Academic Counselor → 2001425
+- Account Payable and Payroll Specialist → 2002203
+- Account Representative → 2002100
+- Account executive (AE) → 2002002
+- Account manager → 2002003
+- Accountant → 2002082
+- Accounting Director → 2002091
+- Accounts Payable → 2002199
+- Accounts Payable Clerk → 2002089
+- Accounts Receivable Clerk → 2002090
+- Acupuncture → 2001229
+- Acute Care → 2002476
+- Acute Care Nurse Practitioner (ACNP) → 2001401
+- Addiction Counselor → 2001426
+- Addiction Therapist → 2001785
+- Admin House Supervisor → 2000411
+- Administrative → 2002481
+- Administrative Assistant → 2002197
+- Administrative Clerk → 2002237
+- Administrator → 2001354
+- Adult Cardiothoracic → 2002484
+- Adult Gerontology Nurse Practitioner (AGNP) → 2002485
+- Adult Reconstructive Orthopaedics → 2000686
+- Adult-Gerontology Acute Care Nurse Practitioner (AG-ACNP) → 2001400
+- Adult-Gerontology Primary Care Nurse Practitioner (AGNP) → 2001402
+- Advanced Endodontics → 2002487
+- Advanced Orthodontics → 2002490
+- Advanced Periodontics → 2002491
+- Advanced Prosthodontics → 2002492
+- Advanced Technician → 2001726
+- Advertising Director → 2002048
+- Aeronautical Operations Technician → 2001727
+- Aerospace Engineer → 2001384
+- Aesthetics → 2001291
+- Agricultural Engineer → 2001385
+- Aircraft Maintenance Technician → 2001728
+- Alcohol and Drug Abuse Counselor → 2001427
+- Allergy and Immunology → 2001155
+- Allied → 2001227
+- Allied Manager/Director → 2003429
+- Ambulatory Care → 2001262
+- Ammunition Technician → 2001729
+- Analyst → 2002228
+- Anesthesia Tech → 2000306
+- Anger Management Counselor → 2001428
+- Ante Partum → 2000415
+- Appeals and Grievance Coordinator → 2002227
+- Application Analyst → 2002177
+- Arbitrator → 2002055
+- Assistant → 2002266
+- Assisted Living → 2002326
+- Associate → 2002159
+- Associate Specialist Analyst → 2002221
+- Audiologist → 2000401
+- Audiologist Outpatient → 2000539
+- Auditor → 2002083
+- Automation Technician → 2001730
+- Automotive Engineer → 2001386
+- Behavioral Counselor → 2001429
+- Behavioral Health → 2002502
+- Behavioral Health Technician → 2001731
+- Behavioral Therapist → 2001786
+- Benefits Administrator → 2002081
+- Bilingual Customer Service Representative → 2002103
+- Binocular Vision and Strabismus → 2002503
+- Binocular Vision and Strabismus - OD → 2002338
+- Biochemical Genetics → 2000751
+- Biologist → 2002152
+- Biomedical Engineer → 2001387
+- Bone Marrow Transplant → 2001184
+- Bookkeeper → 2002085
+- Botanist → 2002148
+- Brand Manager → 2002038
+- Breast imaging → 2000580
+- Breast sonographer → 2001543
+- Budget Analyst → 2002084
+- Business Analyst → 2001689
+- Buyer → 2002258
+- C- Level → 2001287
+- COTA → 2000488
+- COTA HH → 2001200
+- COTA Outpatient → 2000540
+- COTA SNF → 2001164
+- COVID-19 Relief → 2001255
+- CRT → 2000506
+- CSFA → 2002165
+- CT Scan → 2000333
+- CT Scan Outpatient → 2000525
+- CVOR → 2001270
+- CVOR - CSFA → 2003420
+- CVOR Tech → 2001193
+- Calculi → 2000993
+- Call Center → 2000317
+- Call Center Customer Support → 2002101
+- Cardiac Cath Lab → 2000416
+- Cardiac Cath Lab Tech → 2000484
+- Cardiac Nurse Practitioner (CNP) → 2001403
+- Cardio Vascular OR → 2000417
+- Cardiovascular Direct Observation Unit → 2002788
+- Cardiovascular Disease → 2002515
+- Cardiovascular Intensive Care Unit → 2000419
+- Cardiovascular Technician → 2001732
+- Career Counselor → 2001430
+- Career Development Counselor → 2001431
+- Case Management → 2001273
+- Case Manager → 2002056
+- Cath Lab → 2000421
+- Certified Couples Counselor → 2001432
+- Certified Medical Assistant → 2000310
+- Certified Nurse Midwife (CNM) → 2002518
+- Certified Nursing Assistant → 2000311
+- Chemical Dependency Counselor → 2001433
+- Chemical Engineer → 2001388
+- Chemist → 2000347
+- Chief Academic Officer CAO → 2001621
+- Chief Accessibility Officer CAO → 2001622
+- Chief Accounting Officer CAO → 2001623
+- Chief Administrative Officer CAO → 2001624
+- Chief Analytics Officer CAO → 2001625
+- Chief Architect CA → 2001626
+- Chief Artificial Intelligence Officer CAIO → 2001627
+- Chief Audit Executive CAE → 2001628
+- Chief Brand Officer CBO → 2001629
+- Chief Business Development Officer CBDO → 2001630
+- Chief Business Officer CBO → 2001631
+- Chief Commercial Officer CCO → 2001632
+- Chief Communications Officer CCO → 2001633
+- Chief Content Officer CCO → 2001634
+- Chief Creative Officer CCO → 2001635
+- Chief Customer Officer CCO → 2001636
+- Chief Data Officer CDO → 2001637
+- Chief Delivery Officer CDO → 2001638
+- Chief Design Officer CDO → 2001639
+- Chief Digital Officer CDO → 2001640
+- Chief Diversity Officer CDO → 2001641
+- Chief Engineering Officer Cengo → 2001642
+- Chief Executive Officer CEO → 2001643
+- Chief Experience Officer CXO → 2001644
+- Chief Financial Officer CFO → 2001645
+- Chief Gaming Officer CGO → 2001646
+- Chief Government Relations Officer CGRO → 2001647
+- Chief Human Resources Officer CHRO → 2001648
+- Chief Information Officer CIO → 2001649
+- Chief Information Security Officer CISO → 2001650
+- Chief Information Technology Officer CITO → 2001651
+- Chief Innovation Officer CINO → 2001652
+- Chief Investment Officer CIO → 2001653
+- Chief Knowledge Officer CKO → 2001654
+- Chief Learning Officer CLO → 2001655
+- Chief Legal Officer CLO → 2001656
+- Chief Marketing Officer CMO → 2001657
+- Chief Medical Officer → 2001268
+- Chief Medical Officer CMO → 2001658
+- Chief Networking Officer CNO → 2001659
+- Chief Nursing Officer CNO → 2001660
+- Chief Operating Officer COO → 2001661
+- Chief Privacy Officer CPO → 2001662
+- Chief Process Officer CPO → 2001663
+- Chief Procurement Officer CPO → 2001664
+- Chief Product Officer CPO → 2001665
+- Chief Quality Officer CQO → 2001666
+- Chief Radiation Therapist → 2001338
+- Chief Research And Development Officer CRDO → 2001667
+- Chief Research Officer CRO → 2001668
+- Chief Revenue Officer CRO → 2001669
+- Chief Risk Officer CRO → 2001670
+- Chief Sales Officer CSO → 2001671
+- Chief Science Officer CSO → 2001672
+- Chief Security Officer CSO → 2001673
+- Chief Software Officer CSO → 2001674
+- Chief Solutions Officer CSO → 2001675
+- Chief Strategy Officer CSO → 2001676
+- Chief System Engineer CSE → 2001677
+- Chief Technical Officer CTO → 2001678
+- Chief Technology Officer CTO → 2001679
+- Chief Value Officer CVO → 2001680
+- Chief Visionary Officer CVO → 2001681
+- Chief Web Officer CWO → 2001682
+- Chief sales officer (CSO) → 2002011
+- Child Abuse Counselor → 2001435
+- Child Counselor → 2001434
+- Child Psychologist → 2001704
+- Child Therapist → 2001787
+- Civil Engineer → 2001389
+- Clerk → 2002232
+- Client Executive (CE) → 2002012
+- Clinic Manager → 2002215
+- Clinic Nurse → 2001176
+- Clinical Cardiac Electrophysiology → 2002525
+- Clinical Cytogenetics → 2000752
+- Clinical Dietitian → 2001509
+- Clinical Director → 2002184
+- Clinical Genetics → 2000615
+- Clinical Laboratory → 2002328
+- Clinical Laboratory Scientist → 2000487
+- Clinical Laboratory Scientist Outpatient → 2000546
+- Clinical Neurophysiology → 2002528
+- Clinical Policy Coding Analyst → 2002176
+- Clinical Psychologist → 2001705
+- Cloud Architect → 2002070
+- Coding Consultant → 2002181
+- Coding Manager → 2002210
+- Cognitive Therapist → 2001788
+- Cognitive-Behavioral Therapist → 2001789
+- Color Analyst → 2001690
+- Communications Coordinator → 2002030
+- Community Health Worker → 2000316
+- Community Psychologist → 2001707
+- Compliance Consultant → 2002183
+- Computer Engineer → 2001390
+- Computer Programmer → 2002066
+- Computer Repair Technician → 2001733
+- Computer Research Scientist → 2002079
+- Computer Systems Manager → 2002072
+- Computer scientist → 2002151
+- Consultant → 2001353
+- Consumer Psychologist → 2001706
+- Controller → 2002086
+- Coordinator → 2002236
+- Copywriter → 2002049
+- Corporate Actuary → 2001556
+- Corporate Attorney → 2002062
+- Correctional Nurse → 2001186
+- Cornea → 2001513
+- Cornea and Contact Lens → 2002536
+- Cornea and Contact Lens - OD → 2002340
+- Creative Director → 2002041
+- Credit Analyst → 2002095
+- Crime Analyst → 2002178
+- Cryptologic Technician → 2001734
+- Custodial → 2002240
+- Customer Relationship Coordinator → 2002104
+- Customer Service Agent → 2002102
+- Customer Service Associate → 2002097
+- Customer Service Manager → 2002105
+- Customer Service Officer → 2002106
+- Customer success manager (CSM) → 2002005
+- Cytologist → 2000348
+- DPM → 2001280
+- Data Analyst → 2002224
+- Data Engineer → 2001391
+- Dental Assistant → 2000320
+- Dental Hygienist → 2000318
+- Dental Implantology → 2002545
+- Dental Technician → 2001735
+- Depression Counselor → 2001436
+- Dermatology → 2000231
+- Dermatology Nurse Practitioner (DNP) → 2002549
+- Developmental → 2002551
+- Developmental Psychologist → 2001708
+- Diabetes → 2002552
+- Diabetes and Metabolism → 2001144
+- Diagnostic Imaging → 2002336
+- Diagnostic cardiovascular sonographer → 2001539
+- Diagnostic medical sonographer → 2001538
+- Dialectical Behavior Therapist → 2001790
+- Dialysis → 2000288
+- Dialysis Tech → 2000323
+- Dialysis Technician → 2001736
+- Dietetic Tech → 2000371
+- Dietetic Technician Registered (DTR) → 2001504
+- Dietician → 2001221
+- Dietician Outpatient → 2001222
+- Dietitian → 2001219
+- Digital Content Specialist → 2002044
+- Digital Marketing Coordinator → 2002046
+- Digital and Engagement Manager → 2002211
+- Direct Observation Unit → 2000424
+- Director → 2002156
+- Director of Business Development → 2002192
+- Director of Facilities → 2002174
+- Director of Reimbursement → 2002173
+- Director of sales → 2002009
+- District Manager → 2002218
+- Divorce Therapist → 2001791
+- Domain Administrator → 2001327
+- Domestic Violence Counselor → 2001437
+- Dosimetrist → 2000334
+- Dosimetrist Outpatient → 2000526
+- Drafting and Design Engineer → 2001392
+- E-Commerce Marketing Manager → 2002047
+- EEG → 2000336
+- EEG Outpatient → 2000528
+- EEG Tech → 2003419
+- EMT → 2000329
+- EP Tech → 2001209
+- Eating Disorder Counselor → 2001438
+- Eating Disorder Therapist → 2001792
+- Echo → 2000335
+- Echo Outpatient → 2000527
+- Educational Counselor → 2001439
+- Educational Psychologist → 2001709
+- Electrical Engineer → 2001393
+- Electrodiagnosis → 2002556
+- Electrodiagnosis - OD → 2002341
+- Electronics Technician → 2001737
+- Electrophysiology → 2002786
+- Electrophysiology Lab → 2003408
+- Elementary School Counselor → 2001440
+- Employee Health → 2000426
+- Employee KPG → 2000327
+- Endodontics → 2002563
+- Endoscopy → 2000427
+- Engineering Psychologist → 2001710
+- Engineering Technician → 2001740
+- Enterprise Risk Management Actuary → 2001550
+- Entry- Level → 2001521
+- Entry-Level → 2001524
+- Enviromental Services (EVS) Technician → 2000331
+- Environmental Engineer → 2001394
+- Environmental Manager → 2002208
+- Environmental Services Director → 2002185
+- Environmental Worker → 2002254
+- Executive → 2001686
+- Exercise Therapist → 2001793
+- External Auditor → 2002123
+- External Communications Director → 2002033
+- Facility Administrator → 2001351
+- Facility Manager → 2002206
+- Family Counselor → 2001441
+- Family Nurse Practitioner (FNP) → 2002566
+- Finance Actuary → 2001552
+- Financial Administrator → 2001329
+- Financial Advisory Consultant → 2001339
+- Financial Analyst → 2002093
+- Financial Planner → 2002088
+- Food Service → 2002262
+- Foot and Ankle Orthopaedics → 2001120
+- Forensic Actuary → 2001557
+- Forensic Auditor → 2002118
+- Forensic Counselor → 2001442
+- Forensic Odontology → 2002570
+- Forensic Psychologist → 2001711
+- Fund Administrative Consultant → 2002226
+- GI Lab → 2000428
+- GI Tech → 2000501
+- Gastroenterology → 2000196
+- General Counsel → 2002054
+- General Practitioner → 2000184
+- Genetic Counselor → 2001443
+- Geological Engineer → 2001395
+- Gerontological Nurse Practitioner (GNP) → 2001407
+- Gerontology → 2002587
+- Geropsychologist → 2001712
+- Glaucoma → 2001515
+- Government Auditor → 2002120
+- Grief Counselor → 2001444
+- Guidance Counselor → 2001445
+- Gynecology → 2002590
+- Hand Physical Therapist → 2001795
+- Handwriting Analyst → 2001691
+- Health Coach → 2001508
+- Health Counselor → 2001446
+- Health Data Analyst → 2002222
+- Health Information Management Director → 2002189
+- Health Information Management Technician → 2001741
+- Health Insurance Actuary → 2001547
+- Health Psychologist → 2001713
+- Health and Safety Training Manager → 2002212
+- Healthcare Consultant → 2002182
+- Help Desk Coordinator → 2002099
+- Hematology → 2000199
+- Hepatology → 2002596
+- High School Career Counselor → 2001447
+- High-Level → 2001523
+- Histologist → 2000349
+- Histotechnician → 2001742
+- Holistic Health Counselor → 2001448
+- Home Health → 2000429
+- Hospice Nurse → 2001177
+- Hospitalist → 2000239
+- Hospitalist NP → 2001166
+- Hospitalist PA → 2001168
+- Housekeeper → 2002243
+- Human Resources Consultant → 2001340
+- IT → 2002229
+- IT Consultant → 2001341
+- IT Coordinator → 2002071
+- IT Director → 2002075
+- Independent Auditor → 2002121
+- Industrial / Organizational Psychologist → 2001714
+- Industry Analyst → 2001692
+- Infectious Disease → 2002605
+- Information Security Analyst → 2002065
+- Information Technology → 2002238
+- Inside sales representative → 2002000
+- Intelligence Analyst → 2001693
+- Intensive Care Unit → 2000430
+- Intermediate Medical Care → 2001242
+- Interventional Pain Management → 2000568
+- Interventional Procedures → 2000431
+- Investment Actuary → 2001551
+- Investment Banking Analyst → 2002092
+- Java Developer → 2002077
+- Journal Analyst → 2001687
+- Junior Analyst → 2001314
+- Junior Consultant → 2001342
+- Junior Manager → 2001317
+- Junior Tax Associate → 2002094
+- Junior Technician → 2001743
+- Juvenile Counselor → 2001449
+- Juvenile Justice Counselor → 2001450
+- LCSW → 2000303
+- LCSW Outpatient → 2001205
+- LCSW* → 2001233
+- LMFT → 2000554
+- LMFT Outpatient → 2001207
+- LTC → 2003412
+- LVN → 2002140
+- Labor and Delivery → 2000432
+- Labor and Delivery Recovery and Postpartum → 2003414
+- Labor and Delivery Tech → 2000502
+- Lead Analyst → 2001313
+- Lead Manager → 2001319
+- Legal Aide → 2002060
+- Legal Analyst → 2002057
+- Legal Assistant → 2002059
+- Legal Consultant → 2002061
+- Legal Nurse Consultant → 2001852
+- Legal Secretary → 2002063
+- Licensed Nutritionist → 2001505
+- Licensed Psychiatric Technician → 2000355
+- Life Insurance Actuary → 2001546
+- Logistics Supervisor → 2002023
+- Logistics Team Leader → 2002020
+- Long Term Acute Care → 2001265
+- Long Term Care → 2001240
+- MHT → 2001239
+- MQSA → 2001282
+- MRI → 2000339
+- MRI Outpatient → 2000532
+- MSW → 2000304
+- MSW Outpatient → 2001206
+- MSW* → 2001235
+- Maintenance → 2002244
+- Male Infertility → 2001140
+- Mammography → 2000338
+- Mammography Outpatient → 2000531
+- Managed Care → 2002166
+- Management Consultant → 2001343
+- Manager → 2002157
+- Marine Engineer → 2001396
+- Marketing Analyst → 2001694
+- Marketing Assistant → 2002043
+- Marketing Content Assistant → 2002052
+- Marketing Coordinator → 2002042
+- Marketing Director → 2002216
+- Marketing Promotions Specialist → 2002045
+- Marriage Counselor → 2001451
+- Massage Therapist → 2001796
+- Materials Manager → 2002016
+- Maxillofacial Prosthetics → 2002620
+- Mechanical Engineer → 2001397
+- Med Spa Manager → 2001320
+- Media Buyer → 2002050
+- Media Planner → 2002051
+- Media Psychologist → 2001715
+- Media Relations Assistant → 2002034
+- Media Relations Manager → 2002032
+- Mediator → 2002058
+- Medical Case Worker → 2000361
+- Medical Case Worker II → 2000362
+- Medical Coder - Inpatient → 2000313
+- Medical Coder / Biller - Outpatient → 2000314
+- Medical Director → 2002621
+- Medical Laboratory Tech → 2000350
+- Medical Laboratory Technician → 2001745
+- Medical Microbiology → 2000643
+- Medical Records Technician → 2001746
+- Medical Surgical → 2001179
+- Medical Tech → 2000351
+- Medical Technician → 2001747
+- Medical Technologist → 2002288
+- Medical Toxicology → 2002623
+- Mental Health Counselor → 2001452
+- Mid-Level → 2001525
+- Military Counselor → 2001453
+- Military Psychologist → 2001716
+- Military RN → 2001949
+- Mobile Application Developer → 2002069
+- Monitor Tech → 2000367
+- Mother Baby → 2000494
+- Movement Disorders → 2002628
+- Multi-Modality Technologist → 2003417
+- Musculoskeletal sonographer → 2001542
+- NONE → 2002652
+- NP → 2000228
+- Naturopathic → 2001258
+- Neonatal → 2002633
+- Neonatal Dietician → 2001223
+- Neonatal Intensive Care Unit → 2001259
+- Neonatal Intensive Care Unit (NICU) RN → 2001950
+- Neonatal Nurse Practitioner (NNP) → 2002635
+- Neonatal RN → 2002331
+- Neonatology → 2002636
+- Nephrology → 2000892
+- Nephrology RN → 2001951
+- Network Engineer → 2002073
+- Neuro Psychologist → 2002287
+- NeuroHospitalist → 2002642
+- Neurodevelopmental Disabilities → 2001053
+- Neurological Physical Therapist → 2001797
+- Neurophysiology → 2002648
+- Neurosonology sonographer → 2001544
+- News Analyst → 2001695
+- Newborn Development → 2000368
+- Newborn Nursery → 2000436
+- Nocturint NP → 2001167
+- Nocturnist → 2002651
+- Nocturnist PA → 2001169
+- Nurse Attorney → 2001861
+- Nurse Educator → 2001175
+- Nurse Health Coach → 2001862
+- Nurse Writer RN → 2001954
+- Nursing Home Administrator → 2002252
+- Nursing Supervisor → 2000437
+- Nutritional Counselor → 2001454
+- Nutritional Therapist → 2001798
+- Nutritionist → 2001506
+- OB Tech → 2000500
+- OD → 2001278
+- Obstetric sonographer → 2001541
+- Obstetrics and Gynecology → 2000269
+- Obstetrics RN → 2001955
+- Occupational Health RN → 2001956
+- Occupational Physical Therapist → 2001799
+- Occupational Therapist → 2000489
+- Occupational Therapist HH → 2001197
+- Occupational Therapist Outpatient → 2000541
+- Occupational Therapist SNF → 2001163
+- Ocular Disease → 2002657
+- Ocular Disease - OD → 2002346
+- Operating Room → 2000438
+- Operating Room - Circulate Nurse → 2000440
+- Operating Room - Circulate and Scrub Nurse → 2000439
+- Operating Room - Scrub Nurse → 2000441
+- Operations Consultant → 2001344
+- Operations Manager → 2001318
+- Ophthalmic RN → 2001959
+- Optometric Education → 2002664
+- Optometric Education - OD → 2002347
+- Organ Transplant → 2000474
+- Orofacial Pain → 2002671
+- Orthodontic Craniofacial → 2002672
+- Orthopaedic Trauma → 2002677
+- Osteomy RN → 2001961
+- Otalaryngology RN → 2002330
+- Otolaryngology → 2000979
+- Otology Neurotology → 2002681
+- Otorhinolaryngology RN → 2001962
+- Other → 2001293
+- Outside sales representative → 2002001
+- PA → 2000255
+- PICC Nurse → 2000446
+- PTA HH → 2001199
+- PTA SNF → 2001162
+- Pain Management → 2002682
+- Pain Management RN → 2001963
+- Palliative Care → 2000475
+- Parish RN → 2001964
+- Patient Care Coordinator → 2003415
+- Pay Operations Director → 2002186
+- Payroll Administrator → 2002126
+- Payroll Clerk → 2002201
+- Payroll Coordinator → 2002125
+- Payroll Manager → 2002087
+- Payroll Service → 2000373
+- Payroll Specialist → 2002198
+- Payroll Supervisor → 2002128
+- Payroll Support Specialist/Payroll Clerk → 2002202
+- Payroll Tax Specialist → 2002204
+- Pediatric Acute Care Nurse Practitioner (PNP-AC) → 2001410
+- Pediatric Care RN → 2001965
+- Pediatric Dermatology → 2000577
+- Pediatric ER → 2000276
+- Pediatric Echo → 2003418
+- Pediatric Gastroenterology → 2002694
+- Pediatric Hematology → 2002695
+- Pediatric Hospitalist → 2002696
+- Pediatric ICU → 2000278
+- Pediatric Infectious Diseases → 2002698
+- Pediatric Intensive Care Unit → 2000444
+- Pediatric Nephrology → 2000656
+- Pediatric Nurse Practitioner (PNP) → 2001411
+- Pediatric Nurse Practitioner (PNP) → 2002701
+- Pediatric OR → 2000445
+- Pediatric Orthopaedics → 2002704
+- Pediatric Otolaryngology → 2000693
+- Pediatric Physical Therapist → 2001801
+- Pediatric Pulmonology → 2000657
+- Pediatric Rheumatology → 2002710
+- Pediatric Transplant Hepatology → 2000660
+- Pension Actuary → 2001548
+- Performance Analytics Analyst → 2002223
+- Perfusionist → 2002163
+- Perfusionist Technician → 2001998
+- Perinatal RN → 2001966
+- Perioperative RN → 2001967
+- Periodontal Prosthesis → 2002716
+- Periodontics → 2002717
+- Petroleum Engineer → 2001398
+- Petroleum Technician → 2001748
+- Pharmaceutical Technician → 2001749
+- Pharmacist → 2000504
+- Phlebotomist → 2000353
+- Phlebotomist Outpatient → 2000547
+- Phlebotomy Tech → 2000354
+- Phlebotomy Technician → 2001752
+- Physical Medicine and Rehab → 2000216
+- Physical Rehabilitation → 2002278
+- Physical Therapist → 2001334
+- Physical Therapist HH → 2001196
+- Physical Therapist Outpatient → 2000542
+- Physical Therapist SNF → 2001161
+- Physical Therapy Assistant → 2000490
+- Physical Therapy Assistant Outpatient → 2000543
+- Physician → 2002149
+- Podiatry → 2002720
+- Poison Control RN → 2001969
+- Political scientist → 2002150
+- Polysomnographer → 2001218
+- Polysomnographic Technician → 2001753
+- Post Partum → 2000447
+- Post Partum Recovery Unit → 2000448
+- Post-anesthesia Care Unit → 2000449
+- Practice Manager → 2002130
+- Prenatal → 2001130
+- President → 2001684
+- Pricing Actuary → 2001553
+- Primary Care → 2000458
+- Primary Care Nurse Practitioner (PCNP) → 2001405
+- Primary Care RN → 2002324
+- Primary Eye Care → 2002724
+- Primary Eye Care - OD → 2002349
+- Priority Auditor → 2002119
+- Prison Counselor → 2001456
+- Procedural Dermatology → 2000855
+- Procurement Clerk → 2002019
+- Procurement Director → 2002017
+- Procurement Manager → 2002219
+- Product Manager → 2001572
+- Product Marketing Manager → 2002193
+- Production Planner → 2002021
+- Program Manager → 2002214
+- Progressive Care Unit → 2000497
+- Progressive Care/Stepdown → 2000450
+- Project Engineer → 2002180
+- Project Manager → 2002213
+- Property And Casualty Actuary → 2001549
+- Prosthodontics → 2002726
+- Prosthodontics with Implantology → 2002727
+- Psychiatric Mental Health Nurse Practitioner (PMHNP) → 2002728
+- Psychiatric Research → 2000675
+- Psychiatric Social Worker → 2000503
+- Psychiatric Technician → 2001754
+- Psychiatric and Mental Health Nurse Practitioner (PMHNP) → 2001412
+- Psychoanalyst → 2001697
+- Psychodynamic Therapist → 2001802
+- Public Affairs Coordinator → 2002035
+- Public Analyst → 2001698
+- Public Information Specialist → 2002027
+- Public Relations Manager → 2002028
+- Public policy analyst → 2001699
+- Publicist → 2002029
+- Pulmonology → 2002736
+- Purchasing Agent → 2002018
+- Purchasing Associate → 2002024
+- Purchasing Manager → 2002015
+- QA Engineer → 2002190
+- Quality Analyst → 2002175
+- Quality Improvement RN → 2001975
+- Quality Manager → 2002217
+- Quantitative Analyst → 2001700
+- RRT → 2000505
+- RRT NICU → 2001201
+- RRT PICU → 2001202
+- Radiation Therapist → 2001337
+- Radiation Therapy → 2000342
+- Radiologic Technician → 2001755
+- Receptionist → 2002277
+- Recreational Therapist → 2000491
+- Recreational Therapist Outpatient → 2000545
+- Regional Manager → 2002207
+- Regional sales manager → 2002008
+- Registered Dental Assistant → 2000399
+- Registered Dietitian (RD) → 2001503
+- Registered Dietitian/Nutritionist → 2000372
+- Registered Nurse First Assistant RNFA RN → 2002322
+- Regtech Technician Registration → 2001756
+- Rehabilitative Physical Therapist → 2001804
+- Reinsurance Pricing Actuary → 2001555
+- Relationship Counselor → 2001457
+- Renal Transplant → 2000703
+- Reproductive Endocrinologists and Infertility → 2002742
+- Research RN → 2001978
+- Respiratory Therapist → 2001805
+- Retina → 2001514
+- Retina/uveitis → 2001066
+- Revenue Cycle Director → 2002187
+- Rheumatology → 2000172
+- Rheumatology RN → 2001979
+- Risk Control Consultant → 2002179
+- SEO Specialist → 2002040
+- SLP SNF → 2001165
+- SLPA → 2001274
+- Safety Operations Manager → 2002205
+- Sales development representative (SDR) → 2001999
+- Sales engineer → 2002006
+- Sales manager → 2002004
+- Sales operations manager → 2002007
+- Same Day Surgery → 2000452
+- School Nurse → 2001272
+- School OT → 2003424
+- School OTA → 2003427
+- School PT → 2003425
+- School PTA → 2003426
+- School Psychologist → 2001721
+- School SLP → 2003423
+- School Social Worker → 2002109
+- School Therapist → 2001806
+- Science Technician → 2001757
+- Scientist → 2002230
+- Senior Administrator → 2001328
+- Senior Analyst → 2001312
+- Senior Consultant → 2001345
+- Senior Manager → 2001316
+- Senior Manager of Nursing Home → 2001356
+- Senior and Lead Analyst → 2001702
+- Skill Nursing Facility → 2001178
+- Social Media Manager → 2002039
+- Social Psychologist → 2001722
+- Social Therapist → 2001807
+- Social Work Therapist → 2001808
+- Software Analyst → 2001688
+- Software Architect → 2002078
+- Software Engineer → 2001399
+- Sonar Technician → 2001758
+- Sourcing Officer → 2002022
+- Specialist → 2002264
+- Speech Language Pathologist → 2000406
+- Speech Language Pathologist HH → 2001198
+- Speech Language Pathologist Outpatient → 2000544
+- Speech-Language Therapist → 2001336
+- Spiritual Psychologist → 2001723
+- Sport Psychologist → 2001724
+- Staffing Coordinator → 2002191
+- Staffing Manager → 2002209
+- Step Down → 2000498
+- Sterile Processing Tech → 2000307
+- Sterile Processing Tech Outpatient → 2000308
+- Strategic Communications Director → 2002036
+- Strategy Consultant → 2001346
+- Strike → 2003422
+- Stroke Center → 2002335
+- Sub-acute RN → 2001981
+- Substance Abuse Counselor → 2001460
+- Substance Abuse RN → 2001982
+- Substance Abuse counselor → 2001208
+- Supervising LVN → 2002146
+- Supply Chain Supervisor → 2002025
+- Support Administrator → 2001330
+- Surgical RN → 2001983
+- Surgical Tech → 2000455
+- Surgical Tech Outpatient → 2000456
+- Surgical Training (General or Subspecialty) NP → 2002760
+- Swing Bed Unit → 2002334
+- Systems Analyst → 2001701
+- TEST → 2002784
+- Tax Auditor → 2002117
+- Technical Operations Officer → 2002076
+- Technical Specialist → 2002067
+- Technical Support Specialist → 2002098
+- Technicians → 2001759
+- Telecommunications Specialist → 2002074
+- Telemetry → 2000453
+- Telephone Triage RN → 2001985
+- Temporomandibular Disorders and Orofacial Pain → 2002762
+- Temporomandibular Joint Disorders (TMJ) → 2002763
+- Test → 2002783
+- Test1 → 2002303
+- Test2 → 2002304
+- Test3 → 2002305
+- Theatrical Technician → 2001760
+- Toxicology → 2002765
+- Toxicology RN → 2001986
+- Trainer → 2002246
+- Transcultural RN → 2001987
+- Transitional Care Nurse → 2000454
+- Transpersonal Psychologist → 2001725
+- Transplant Hepatology → 2002766
+- Transplant RN → 2001988
+- Transport RN → 2001989
+- Transporter → 2002256
+- Trauma → 2000983
+- Trauma Counselor → 2001461
+- Trauma RN → 2001990
+- Trauma Surgery → 2002767
+- Trauma Therapist → 2001809
+- Travel RN → 2001991
+- Triage RN → 2001992
+- Ultrasound → 2000343
+- Ultrasound (AB) → 2000536
+- Ultrasound (AB) Outpatient → 2000537
+- Ultrasound (OB) → 2000486
+- Ultrasound (OB) Outpatient → 2000535
+- Ultrasound II → 2001283
+- Ultrasound Outpatient → 2000534
+- Undefined → 2001195
+- Underwriter → 2002268
+- Urgent Care → 2000282
+- Urgent Care RN → 2002325
+- Utilization Management RN → 2001994
+- VP → 2002158
+- Valuation Actuary → 2001554
+- Value Realization Consultant → 2002225
+- Vascular Access RN → 2001995
+- Vascular Ultrasound → 2000345
+- Vascular Ultrasound Outpatient → 2000538
+- Veterans Counselor → 2001463
+- Veterinary Technician → 2001761
+- Vice President → 2001685
+- Vice President of Human Resources → 2002188
+- Vice president (VP) of sales → 2002010
+- Vocational Counselor → 2001455
+- Web Developer → 2002068
+- Weight Loss → 2002283
+- Wellness Counselor → 2001464
+- Women's Health → 2000180
+- Women's Health Nurse Practitioner (WHNP) → 2001413
+- Women's Health Nurse Practitioner (WHNP) → 2002778
+- Wound Care → 2002779
+- Youth Counselor → 2001462
+- Youth Psychiatry → 2001493
+- Youth Therapist → 2001811
+- and Metabolism → 2000887
+- tesT → 2002785
+- test → 2002782
+- xDoNotUse → 2002314
+- xx do not use xx → 2003413
